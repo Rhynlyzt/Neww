@@ -3,7 +3,7 @@ const moment = require("moment-timezone");
 module.exports.config = {
   name: "accept",
   version: "1.0.0",
-  role: 2,
+  role: 0,
   hasPrefix: true,
   credits: "Developer",
   description: "Accept friend requests on bot.",
